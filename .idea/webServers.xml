@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8478eeca-eec5-4410-9dcc-5aa102899ff1" name="CT-Classification">
+        <fileTransfer rootFolder="/home/mist" accessType="SFTP" host="47.103.52.232" port="10030" sshConfigId="0b96e8b7-fa7c-4760-8c7d-3c2a66301935" sshConfig="mist@47.103.52.232:10030 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
